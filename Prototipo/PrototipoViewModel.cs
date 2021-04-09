@@ -6,7 +6,7 @@ namespace Prototipo
     {
         public PrototipoViewModel()
         {
-            this.Customers = Record.GetCustomers();
+            this.Customers = Record.GetRecords();
         }
 
         public List<Record> Customers { get; set; }

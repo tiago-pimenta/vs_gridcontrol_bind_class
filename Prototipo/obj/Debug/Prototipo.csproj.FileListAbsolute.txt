@@ -89,3 +89,4 @@ C:\Users\Tiago\Desenvolvimento\Visual Studio 2019\Prototipo\Prototipo\bin\Debug\
 C:\Users\Tiago\Desenvolvimento\Visual Studio 2019\Prototipo\Prototipo\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
 C:\Users\Tiago\Desenvolvimento\Visual Studio 2019\Prototipo\Prototipo\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
 C:\Users\Tiago\Desenvolvimento\Visual Studio 2019\Prototipo\Prototipo\obj\Debug\Prototipo.exe.licenses
+C:\Users\Tiago\Desenvolvimento\Visual Studio 2019\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache

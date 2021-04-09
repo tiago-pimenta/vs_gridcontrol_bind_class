@@ -10,7 +10,7 @@ namespace Prototipo
         public string Movimento { get; set; }
         public decimal Valor { get; set; }
 
-        public static List<Record> GetCustomers()
+        public static List<Record> GetRecords()
         {
             List<Record> people = new List<Record>();
 
