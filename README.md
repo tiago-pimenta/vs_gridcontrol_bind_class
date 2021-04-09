@@ -8,6 +8,6 @@ Objectives of this Example
 
 2. Be able to insert, update and delete the records in execution mode
 
-If you can help me, I thank you, because I'm starting with C # and DevExpress
+If you can help me, I thank you, because I'm starting with C# and DevExpress
 
 Thanks
