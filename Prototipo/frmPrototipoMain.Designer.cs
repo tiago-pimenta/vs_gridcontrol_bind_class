@@ -71,7 +71,7 @@ namespace Prototipo
             // 
             // customersBindingSource
             // 
-            this.customersBindingSource.DataMember = "Customers";
+            this.customersBindingSource.DataMember = "Records";
             this.customersBindingSource.DataSource = this.prototipoViewModelBindingSource;
             // 
             // colData

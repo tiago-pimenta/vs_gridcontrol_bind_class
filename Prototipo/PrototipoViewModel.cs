@@ -6,9 +6,9 @@ namespace Prototipo
     {
         public PrototipoViewModel()
         {
-            this.Customers = Record.GetRecords();
+            this.Records = Record.GetRecords();
         }
 
-        public List<Record> Customers { get; set; }
+        public List<Record> Records { get; set; }
     }
 }
